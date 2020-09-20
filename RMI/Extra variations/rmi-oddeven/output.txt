@@ -1,0 +1,29 @@
+/*
+	Name:		Yash D. Gandhi
+	Roll No.:	45017	
+	Assignment:	1.2
+
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-oddeven> java Client 127.0.0.1 7
+The Number is: 7
+The Number is : Odd
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-oddeven> java Client 127.0.0.1 8
+The Number is: 8
+The Number is : Even
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-oddeven> java Client 127.0.0.1 79356
+The Number is: 79356
+The Number is : Even
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-oddeven> java Client 127.0.0.1 74581
+The Number is: 74581
+The Number is : Odd
+*/

@@ -1,0 +1,32 @@
+/*
+	Name:		Yash D. Gandhi
+	Roll No.:	45017	
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-palindrome> java Client 127.0.0.1 HelloWorld
+The string is: HelloWorld
+The String is Palindrome: False
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-palindrome> java Client 127.0.0.1 12121
+The string is: 12121
+The String is Palindrome: True
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-palindrome> java Client 127.0.0.1 ROY
+The string is: ROY
+The String is Palindrome: False
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-palindrome> java Client 127.0.0.1 Malayalam
+The string is: Malayalam
+The String is Palindrome: True
+
+
+*/
+

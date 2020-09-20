@@ -1,0 +1,32 @@
+/*
+	Name:		Yash D. Gandhi
+	Roll No.:	45017	
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+	D:\DCS CODES\DCS Final codes\1.2\rmi-strrev>java Client 127.0.0.1 roy
+	The string is: roy
+	The Reverse String is : yos
+	
+	D:\DCS CODES\DCS Final codes\1.2\rmi-strrev>java Client 127.0.0.1 typedef
+	The string is: typedef
+	The Reverse String is : fedepyt
+	
+	D:\DCS CODES\DCS Final codes\1.2\rmi-strrev>java Client 127.0.0.1 life
+	The string is: life
+	The Reverse String is : efil
+	
+	D:\DCS CODES\DCS Final codes\1.2\rmi-strrev>java Client 127.0.0.1 dcs
+	The string is: dcs
+	The Reverse String is : scd
+
+
+*/
+

@@ -1,0 +1,34 @@
+/*
+	Name:		Yash D. Gandhi
+	Roll No.:	45017	
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs 
+	based on java sockets and RMI techniques.
+*/
+	 
+/*
+
+				++OUTPUT++
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-arithmetic> java Client 127.0.0.1 10 2 Add
+The first number is: 10
+The second number is: 2
+The sum is: 12.0
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-arithmetic> java Client 127.0.0.1 5 3 Subtract
+The first number is: 5
+The second number is: 3
+The sub is: 2.0
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-arithmetic> java Client 127.0.0.1 8 6 Multiply
+The first number is: 8
+The second number is: 6
+The multiplication is: 48.0
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-arithmetic> java Client 127.0.0.1 1100 11 Divide
+The first number is: 1100
+The second number is: 11
+The division is: 100
+
+*/

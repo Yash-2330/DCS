@@ -1,0 +1,7 @@
+module Tempconvcalc
+{
+	interface Tempcalc
+	{
+		double get_celsius(in string symbol);
+	};
+};

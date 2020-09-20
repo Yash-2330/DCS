@@ -1,0 +1,32 @@
+/*
+	Name:		Yash D. Gandhi
+	Roll No.:	45017	
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+	D:\DCS CODES\DCS Final codes\1.2\rmi-prime> java Client 127.0.0.1 139
+	The string is: 139
+	The number is Prime: True
+
+	D:\DCS CODES\DCS Final codes\1.2\rmi-prime> java Client 127.0.0.1 120
+	The string is: 120
+	The number is Prime: False
+
+	D:\DCS CODES\DCS Final codes\1.2\rmi-prime> java Client 127.0.0.1 193
+	The string is: 193
+	The number is Prime: True
+
+	D:\DCS CODES\DCS Final codes\1.2\rmi-prime> java Client 127.0.0.1 167
+	The string is: 167
+	The number is Prime: True
+
+
+*/
+

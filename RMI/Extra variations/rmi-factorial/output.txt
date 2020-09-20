@@ -1,0 +1,38 @@
+/*
+	Name:		Yash D. Gandhi
+	Roll No.:	45017	
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-factorial>java Client 127.0.0.1 10 Factorial
+
+	The number is: 10
+
+	The Factorial of 10 is: 3628800.0
+	
+D:\DCS CODES\DCS Final codes\1.2\rmi-factorial> java Client 127.0.0.1 6 Factorial
+
+	The number is: 6
+
+	The Factorial of 6 is: 720.0
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-factorial> java Client 127.0.0.1 1 Factorial
+
+	The number is: 1
+
+	The Factorial of 1 is: 1.0
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-factorial> java Client 127.0.0.1 0 Factorial
+
+	The number is: 0
+
+	The Factorial of 0 is: 1.0
+
+*/

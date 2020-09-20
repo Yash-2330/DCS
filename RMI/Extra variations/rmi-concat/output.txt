@@ -1,0 +1,36 @@
+/*
+	Name:		Yash D. Gandhi
+	Roll No.:	45017	
+	Assignment:	1.2
+	
+	To develop any distributed application through implementing client-server communication programs
+	based on java sockets and RMI techniques.
+*/
+
+/*
+
+				++OUTPUT++
+
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-concat> java Client 127.0.0.1 Yash Gandhi
+The first string is: Yash
+The second string is: Gandhi
+The concatenation is: YashGandhi
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-concat> java Client 127.0.0.1 omkar nalawade
+The first string is: omkar 
+The second string is: nalawade
+The concatenation is: omkarnalawade
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-concat> java Client 127.0.0.1 apurva bhandari
+The first string is: apurva 
+The second string is: bhandari
+The concatenation is: apurvabhandari
+
+D:\DCS CODES\DCS Final codes\1.2\rmi-concat> java Client 127.0.0.1 raza pathan
+The first string is: raza 
+The second string is: pathan
+The concatenation is: razapathan
+
+*/
+
